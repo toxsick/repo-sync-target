@@ -20,3 +20,4 @@ jobs:
         with:
           source_repo_path: toxsick/repo-template
           upstream_branch: main
+          is_pr_cleanup: true
